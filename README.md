@@ -40,11 +40,15 @@ Bank Customer Churn (https://github.com/YBI-Foundation/Dataset/raw/main/Bank%20C
 
 In order to create a model these are the following procedure -
 
-Split the dataset in 70% of Train set and 30% of Test Set
-Feature engineering
-Handling Imbalanced Data
-Check the accuracy score for both Training and Test Set
-Compare the accuracies for both Training and Test set, in order to check for the overfitting issues
+Split the dataset in 70% of Train set and 30% of Test Set.
+
+Feature engineering.
+
+Handling Imbalanced Data.
+
+Check the accuracy score for both Training and Test Set.
+
+Compare the accuracies for both Training and Test set, in order to check for the overfitting issues.
 
 ## Conclusion
 

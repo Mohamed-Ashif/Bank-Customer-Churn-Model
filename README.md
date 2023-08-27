@@ -4,7 +4,7 @@
 
 The objective of the project is to develop a predictive model that can accurately identify and predict which customers are likely to churn (leave) the bank's services.
 
-![customer_churn](https://github.com/Mohamed-Ashif/Bank-Customer-Churn-Model/assets/78372127/350fcc20-94c2-4668-a098-2d73afb6080c)
+![Churn-analysis-by-47Billion](https://github.com/Mohamed-Ashif/Bank-Customer-Churn-Model/assets/78372127/06c33c73-e648-47a5-9424-ff00414adb27)
 
 ## Datasource
 
@@ -36,7 +36,7 @@ Bank Customer Churn (https://github.com/YBI-Foundation/Dataset/raw/main/Bank%20C
 
 ◉ Churn: Whether or not the customer left the bank.
 
-## Working Flow :
+## Explaination
 
 In order to create a model these are the following procedure -
 
